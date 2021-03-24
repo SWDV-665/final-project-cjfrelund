@@ -1,0 +1,7 @@
+{
+  "name": "BumbleCompass",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
